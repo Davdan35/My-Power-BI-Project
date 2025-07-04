@@ -13,3 +13,10 @@ In response to concerns about gender inequality and salary disparities at Palmor
 - Compliance check with minimum salary regulations
 - Bonus allocation based on department and performance
 - Total compensation analysis and payouts by region
+
+
+### Key Data Clean-Up Actions
+1. Removed employees with no department or marked "NULL".
+2. Excluded employees with missing salary (likely no longer with the company).
+3. Marked missing gender as “Undisclosed”.
+
