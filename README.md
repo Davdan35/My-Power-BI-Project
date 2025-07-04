@@ -20,3 +20,4 @@ In response to concerns about gender inequality and salary disparities at Palmor
 2. Excluded employees with missing salary (likely no longer with the company).
 3. Marked missing gender as “Undisclosed”.
 
+
