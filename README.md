@@ -27,5 +27,3 @@ In response to concerns about gender inequality and salary disparities at Palmor
 See Details in the attached below:
 
 [My Power BI Project - Palmoria Group.pdf](https://github.com/user-attachments/files/21206720/My.Power.BI.Project.-.Palmoria.Group.pdf)
-
-
